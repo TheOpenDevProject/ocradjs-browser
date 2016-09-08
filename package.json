@@ -1,8 +1,9 @@
 {
   "name": "ocradjs-browser.js",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "OCRAD.js Compile and Run with webpack for the browser",
   "main": "ocrad-browser.js",
+  "url" : "https://github.com/TheOpenDevProject/ocradjs-browser",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
