@@ -5,10 +5,10 @@ This is a simple bundle for the OCR library OCRAD.js (See Original README below)
 **Usage**
 ```javascript
 "use strict";
-var OCRAD = require("ocrad-browser.js");
+var OCRAD = require("ocradjs-browser.js");
 ...
  new webpack.ProvidePlugin({
-           OCRAD : "ocrad-browser.js"
+           OCRAD : "ocradjs-browser.js"
     }),
 ```
 
